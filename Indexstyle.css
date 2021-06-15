@@ -1,2 +1,34 @@
+#nome{
+font-family: serif;
+font-weight: bold;
+color: #451E0A;
+font-size: 35px; ;
+}
 
+#menu{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 22px; ;
+    }
 
+#slyde img{
+    height: 750px;
+}
+
+#slyde div h5{
+    font-size: 35px;
+    color:white;
+        -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:black;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#slyde div p{
+    font-size: 25px;
+    color:white;
+        -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:black;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
