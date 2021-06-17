@@ -1,3 +1,5 @@
+/* Nome da cafeteria*/
+
 #nome{
 font-family: serif;
 font-weight: bold;
@@ -5,11 +7,16 @@ color: #451E0A;
 font-size: 35px; 
 }
 
+/* Menu*/
+
 #menu{
     font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 22px; 
     }
+
+
+/* Slyde de imagens*/
 
 #slyde div h5{
     font-size: 35px;
@@ -28,6 +35,8 @@ font-size: 35px;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/* Sobre nós*/
 
 #sobre{
     background-color: #F9E6C8;
@@ -62,6 +71,8 @@ font-size: 35px;
 .card{
     background-color: #F9E6C8;
 }
+
+/* Mais pedidos*/
 
 #maispedidos{
     background-color:  #451E0A;
@@ -99,6 +110,53 @@ font-size: 35px;
 #maispedidos p{
     background-color: #F9E6C8;
     color: #451E0A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
+}
+
+/* Promoções*/
+
+#promocoes{
+    background-color:  #F9E6C8;
+
+}
+
+#promocoes1{
+    background-color:  #F9E6C8;
+}
+
+#promocoes1 div div{
+    background-color:  #451E0A;
+}
+
+#promocoes a{
+    background-color:  #451E0A;
+    color:#F9E6C8;
+    font-weight: bold;
+}
+
+#promocoes h2{
+    background-color: #F9E6C8;
+    color: #451E0A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px; 
+    font-weight: bold;
+    text-align: center;
+}
+
+#promocoes h5{
+    background-color: #451E0A;
+    color: #F9E6C8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20x;
+    font-weight: bold;
+
+}
+
+#promocoes p{
+    background-color: #451E0A;
+    color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
 
