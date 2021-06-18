@@ -1,3 +1,6 @@
+@media (max-width: 320px) {}
+
+
 /* Nome da cafeteria*/
 
 #nome{
@@ -9,15 +12,18 @@ font-size: 35px;
 
 /* Menu*/
 
-#menu{
+#navbar{background-color: #F9E6C8;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 22px; 
-    }
+    color: #451E0A;
+    font-size: 22px;
 
-
+}
 /* Slyde de imagens*/
 
+#carouselExampleDark{
+    background-color: #F9E6C8;
+      }
 #slyde div h5{
     font-size: 35px;
     color:white;
@@ -35,6 +41,8 @@ font-size: 35px;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
 
 /* Sobre nós*/
 
@@ -68,14 +76,20 @@ font-size: 35px;
     background-color: #F9E6C8;
 }
 
-.card{
+#sobre .card{
     background-color: #F9E6C8;
+    width: 1000px;
 }
 
 /* Mais pedidos*/
 
 #maispedidos{
     background-color:  #451E0A;
+
+}
+
+#maispedidos div div div div{
+    background-color:  #F9E6C8;
 
 }
 
@@ -159,5 +173,46 @@ font-size: 35px;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
+
+}
+
+/* Contatos*/
+
+#contatos{
+    background-color:  #451E0A;
+
+}
+
+#contatos h2{
+    background-color:  #451E0A;
+    color: #F9E6C8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px; 
+    font-weight: bold;
+    text-align: center;
+}
+
+#contatos h3{
+    background-color:  #451E0A;
+    color: #F9E6C8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px; 
+    font-weight: bold;
+
+}
+
+#contatos div div div{
+    background-color:  #451E0A;
+    color: #F9E6C8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px; 
+    font-weight: bold;
+
+}
+
+#contatos a{
+    background-color:  #F9E6C8;
+    color:#451E0A;
+    font-weight: bold;
 
 }
