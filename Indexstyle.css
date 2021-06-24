@@ -1,8 +1,8 @@
-/*@media (max-width: 320px) {*/
+/* Configurações para adequação em telas de diferentes tamanhos*/
 @media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) {
     
-/* Nome da cafeteria*/
 
+/* Nome da cafeteria*/
 #nome{
 font-family: serif;
 font-weight: bold;
@@ -11,7 +11,6 @@ font-size: 35px;
 }
 
 /* Menu*/
-
 #navbar{background-color: #F9E6C8;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -20,7 +19,6 @@ font-size: 35px;
 
 }
 /* Slyde de imagens*/
-
 #carouselExampleDark{
     background-color: #F9E6C8;
       }
@@ -32,7 +30,6 @@ font-size: 35px;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
 #slyde div p{
     font-size: 25px;
     color:white;
@@ -42,14 +39,10 @@ font-size: 35px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
-
 /* Sobre nós*/
-
 #sobre{
     background-color: #F9E6C8;
 }
-
 #sobre h2{
     background-color: #F9E6C8;
     color: #451E0A;
@@ -58,20 +51,17 @@ font-size: 35px;
     font-weight: bold;
     text-align: center;
 }
-
 #sobre p{
     background-color: #F9E6C8;
     color: #451E0A;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px; 
 }
-
 #sobre a{
     background-color: #451E0A;
     color:#F9E6C8;
     font-weight: bold;
 }
-
 .row{
     background-color: #F9E6C8;
 }
@@ -82,27 +72,20 @@ font-size: 35px;
 }
 
 /* Mais pedidos*/
-
 #maispedidos{
     background-color:  #451E0A;
-
 }
-
 #maispedidos div div div div{
     background-color:  #F9E6C8;
-
 }
-
 #maispedidos1{
     background-color:  #451E0A;  
 }
-
 #maispedidos a{
     background-color:  #F9E6C8;
     color:#451E0A; 
     font-weight: bold;
 }
-
 #maispedidos h2{
     background-color: #451E0A;
     color: #F9E6C8;
@@ -118,7 +101,6 @@ font-size: 35px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20x;
     font-weight: bold;
-
 }
 
 #maispedidos p{
@@ -126,16 +108,12 @@ font-size: 35px;
     color: #451E0A;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
-
 }
 
 /* Promoções*/
-
 #promocoes{
     background-color:  #F9E6C8;
-
 }
-
 #promocoes1{
     background-color:  #F9E6C8;
 }
@@ -149,7 +127,6 @@ font-size: 35px;
     color:#F9E6C8;
     font-weight: bold;
 }
-
 #promocoes h2{
     background-color: #F9E6C8;
     color: #451E0A;
@@ -158,31 +135,24 @@ font-size: 35px;
     font-weight: bold;
     text-align: center;
 }
-
 #promocoes h5{
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20x;
     font-weight: bold;
-
 }
-
 #promocoes p{
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
-
 }
 
 /* Contatos*/
-
 #contatos{
     background-color:  #451E0A;
-
 }
-
 #contatos h2{
     background-color:  #451E0A;
     color: #F9E6C8;
@@ -191,28 +161,23 @@ font-size: 35px;
     font-weight: bold;
     text-align: center;
 }
-
 #contatos h3{
     background-color:  #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px; 
     font-weight: bold;
-
 }
-
 #contatos div div div{
     background-color:  #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px; 
     font-weight: bold;
-
 }
-
 #contatos a{
     background-color:  #F9E6C8;
     color:#451E0A;
     font-weight: bold;
-
-}}
+}
+}
