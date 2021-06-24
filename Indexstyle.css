@@ -75,6 +75,11 @@ font-size: 35px;
 #maispedidos{
     background-color:  #451E0A;
 }
+#maispedidos img{
+width: 200px;
+height: 200px;
+}
+
 #maispedidos div div div div{
     background-color:  #F9E6C8;
 }
