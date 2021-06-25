@@ -147,7 +147,7 @@ font-size: 35px;
 /* Mais pedidos*/
 #maispedidos{
     background-color:  #451E0A;
-    height: 800px
+   
 }
 #maispedidos img{
     height: 200px;
@@ -158,7 +158,7 @@ font-size: 35px;
 #maispedidos div div div div{
     background-color:  #F9E6C8;
 
-}
+} 
 #maispedidos1{
     background-color:  #451E0A;  
 }
