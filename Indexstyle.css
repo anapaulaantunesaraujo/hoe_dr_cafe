@@ -80,20 +80,19 @@
 #promocoes a{max-height: 100%}
 #promocoes h2{max-height: 100%}
     
-    #promocoes h5{max-height: 100%;
+    #promocoes h5.card-title{max-height: 100%;
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    min-font-size: 10px;
-    mmax-font-size: 20px;
+    font-size: 10px;
     font-weight: bold;
 }
 #promocoes span.card-text{max-height: 100%;
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    min-font-size: 8px;
-    mmax-font-size: 18px;
+    font-size: 8px;
+
 }
     
     
@@ -260,16 +259,14 @@ height: 200px;
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    min-font-size: 10px;
-    mmax-font-size: 20px;
+    font-size: 20px;
     font-weight: bold;
 }
 #promocoes span{
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    min-font-size: 10px;
-    mmax-font-size: 18px;
+    font-size: 18px;
 }
 
 /* Contatos*/
