@@ -1,5 +1,59 @@
 /* Configurações para adequação em telas de diferentes tamanhos*/
-@media screen and (max-width: 920px) and (min-width: 600px), (min-width: 1100px) {
+
+
+@media only screen and (max-width: 768px) {
+
+/* Nome da cafeteria*/
+#nome{max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;}
+/* Menu*/
+#navbar{max-width: 100%;
+    padding-left: 2rem;
+    padding-right: 1rem;}
+/* Slyde de imagens*/
+#carouselExampleDark{max-width: 100%}
+#slyde div h5{max-width: 100%}
+#slyde div p{max-width: 100%}
+/* Sobre nós*/
+#sobre{max-width: 100%;
+    padding-left: 1rem;}
+#sobre h2{max-width: 100%;
+    padding-left: 1rem;}
+#sobre p{max-width: 100%;
+    padding-left: 1rem;}
+#sobre a{max-width: 100%}
+.row{max-width: 100%}
+#sobre img{max-width: 100%;
+    padding-left: 1rem;}
+#sobre .card{max-width: 100%}
+/* Mais pedidos*/
+#maispedidos{max-height: 100%}
+#maispedidos .card{max-height: 100%}
+#maispedidos img{max-height: 100%}
+#maispedidos div div div div{max-height: 100%}
+#maispedidos1{max-height: 100%}
+#maispedidos a{max-height: 100%}
+#maispedidos h2{max-height: 100%}
+#maispedidos h5{max-height: 100%}
+#maispedidos span{max-height: 100%}
+/* Promoções*/
+#promocoes{max-width: 100%}
+#promocoes1{max-width: 100%}
+#promocoes1 div div{max-width: 100%}
+#promocoes a{max-width: 100%}
+#promocoes h2{max-width: 100%}
+#promocoes h5{max-width: 100%}
+#promocoes span{max-width: 100%}
+/* Contatos*/
+#contatos{max-width: 100%}
+#contatos h2{max-width: 100%}
+#contatos h3{max-width: 100%}
+#contatos div div div{max-width: 100%}
+#contatos a{max-width: 100%}
+#contatos img{height: 250px;}
+
+}
 
 /* Nome da cafeteria*/
 #nome{
@@ -75,8 +129,7 @@ font-size: 35px;
     background-color:  #451E0A;
 }
 #maispedidos img{
-width: 318px;
-height: 200px;
+    height: 200px;
 }
 
 #maispedidos div div div div{
@@ -121,7 +174,6 @@ height: 200px;
 }
 
 #promocoes img{
-width: 318px;
 height: 200px;
 }
 #promocoes1{
@@ -171,6 +223,9 @@ height: 200px;
     font-weight: bold;
     text-align: center;
 }
+#contatos img{
+    height: 250px;
+}
 #contatos h3{
     background-color:  #451E0A;
     color: #F9E6C8;
@@ -190,4 +245,4 @@ height: 200px;
     color:#451E0A;
     font-weight: bold;
 }
-}
+
