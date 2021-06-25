@@ -29,6 +29,20 @@
     padding-left: 1rem;}
 #sobre .card{max-width: 100%}
 /* Mais pedidos*/
+ #maispedidos h5{
+    background-color: #F9E6C8;
+    color: #451E0A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15x;
+    font-weight: bold;
+}
+
+#maispedidos span{
+    background-color: #F9E6C8;
+    color: #451E0A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}   
 #maispedidos{max-height: 100%}
     #maispedidos .card-body {height: 250px}
 #maispedidos .card{max-height: 100%}
