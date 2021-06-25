@@ -71,13 +71,30 @@
                   font-size: 12px;}
     
 /* Promoções*/
-#promocoes{max-width: 100%}
-#promocoes1{max-width: 100%}
-#promocoes1 div div{max-width: 100%}
-#promocoes a{max-width: 100%}
-#promocoes h2{max-width: 100%}
-#promocoes h5{max-width: 100%}
-#promocoes span{max-width: 100%}
+#promocoes{max-height: 100%;
+   padding-left: 4rem;
+    padding-right: 1rem;}
+#promocoes .card-body {height: 230px}
+#promocoes1{max-height: 100%}
+#promocoes1 div div{max-height: 100%}
+#promocoes a{max-height: 100%}
+#promocoes h2{max-height: 100%}
+    
+    #promocoes h5{max-height: 100%;
+    background-color: #451E0A;
+    color: #F9E6C8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15x;
+    font-weight: bold;
+}
+#promocoes span{max-height: 100%;
+    background-color: #451E0A;
+    color: #F9E6C8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+    
+    
 /* Contatos*/
 #contatos{max-width: 100%}
 #contatos h2{max-width: 100%}
