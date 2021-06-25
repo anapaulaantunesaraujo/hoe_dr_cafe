@@ -22,7 +22,7 @@
 #slyde {max-width: 100%;
     height: 700px;
 }
-#slyde div h5{max-width: 100%;
+#slyde h5{max-width: 100%;
     font-size: 18px;
     color:white;
         -webkit-text-stroke-width: 1px;
@@ -30,7 +30,7 @@
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#slyde div p{max-width: 100%;
+#slyde p{max-width: 100%;
     font-size: 12px;
     color:white;
         -webkit-text-stroke-width: 1px;
