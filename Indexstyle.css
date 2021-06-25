@@ -11,11 +11,6 @@
 #navbar{max-width: 100%;
     padding-left: 2rem;
     padding-right: 1rem;}
-/* Slyde de imagens*/
-#carouselExampleDark{max-width: 100%}
-#slyde div h5{max-width: 100%}
-#slyde div p{max-width: 100%}
-
 /* Sobre nós*/
 #sobre{max-width: 100%;
     padding-left: 1rem;}
