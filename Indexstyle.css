@@ -133,13 +133,13 @@ font-size: 35px;
 /* Mais pedidos*/
 #maispedidos{
     background-color:  #451E0A;
-    #maispedidos{height: 500px}
+    height: 500px
 }
 #maispedidos img{
     height: 200px;
 }
 
-#maispedidos .card-body {height: 250px}
+#maispedidos .card-body {height: 300px}
 
 #maispedidos div div div div{
     background-color:  #F9E6C8;
