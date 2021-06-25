@@ -15,6 +15,8 @@
 #carouselExampleDark{max-width: 100%}
 #slyde div h5{max-width: 100%}
 #slyde div p{max-width: 100%}
+#slyde img{max-height: 100%}
+}
 /* Sobre nós*/
 #sobre{max-width: 100%;
     padding-left: 1rem;}
