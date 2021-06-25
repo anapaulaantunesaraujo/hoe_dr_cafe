@@ -15,10 +15,12 @@
 /* Slyde de imagens*/
 #carouselExampleDark{
     background-color: #F9E6C8;
+    max-width: 100%;
+    height: 700px;
       }
 
-#slyde img{max-width: 100%;
-    height: 300px;
+#slyde {max-width: 100%;
+    height: 700px;
 }
 #slyde div h5{max-width: 100%;
     font-size: 18px;
