@@ -84,14 +84,16 @@
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15x;
+    min-font-size: 10px;
+    mmax-font-size: 20px;
     font-weight: bold;
 }
-#promocoes span{max-height: 100%;
+#promocoes span.card-text{max-height: 100%;
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 12px;
+    min-font-size: 8px;
+    mmax-font-size: 18px;
 }
     
     
@@ -258,14 +260,16 @@ height: 200px;
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20x;
+    min-font-size: 10px;
+    mmax-font-size: 20px;
     font-weight: bold;
 }
 #promocoes span{
     background-color: #451E0A;
     color: #F9E6C8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
+    min-font-size: 10px;
+    mmax-font-size: 18px;
 }
 
 /* Contatos*/
