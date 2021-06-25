@@ -30,7 +30,7 @@
 #sobre .card{max-width: 100%}
 /* Mais pedidos*/
 #maispedidos{max-height: 100%}
-    #maispedidos .card-body {height: 200px}
+    #maispedidos .card-body {height: 250px}
 #maispedidos .card{max-height: 100%}
 #maispedidos img{max-height: 100%}
 #maispedidos div div div div{max-height: 100%}
@@ -139,7 +139,7 @@ font-size: 35px;
     height: 200px;
 }
 
-#maispedidos .card-body {height: 200px}
+#maispedidos .card-body {height: 250px}
 
 #maispedidos div div div div{
     background-color:  #F9E6C8;
