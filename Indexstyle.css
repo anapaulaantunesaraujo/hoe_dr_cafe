@@ -75,6 +75,10 @@ font-size: 35px;
 #carouselExampleDark{
     background-color: #F9E6C8;
       }
+
+#slyde img{
+    max-height: 700px;
+}
 #slyde div h5{
     font-size: 35px;
     color:white;
