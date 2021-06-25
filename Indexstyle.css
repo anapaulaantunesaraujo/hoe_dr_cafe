@@ -29,7 +29,7 @@
 .row{max-width: 100%}
 #sobre img{max-width: 100%;
     padding-left: 1rem;}
-#sobre .card{max-width: 100%}
+#sobre .card{max-width: 300%}
 /* Mais pedidos*/
  #maispedidos h5{
     background-color: #F9E6C8;
