@@ -233,6 +233,7 @@ font-size: 35px;
 #promocoes{
     background-color:  #F9E6C8;
 }
+#promocoes .card-body {height: 230px}
 
 #promocoes img{
 height: 200px;
